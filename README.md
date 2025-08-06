@@ -30,6 +30,7 @@ Script này thực hiện các bước:
 - Python 3.8 trở lên
 - Trình duyệt đã đăng nhập vào [https://thanhtoanhocphi.epu.edu.vn](https://thanhtoanhocphi.epu.edu.vn)
 - Có tài khoản Google Drive (và file `credentials.json`)
+- Phải chạy Terminal với quyền Administrator (Run as administrator)
 
 ---
 
