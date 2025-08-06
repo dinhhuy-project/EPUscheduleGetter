@@ -69,9 +69,9 @@ e.g: https://drive.google.com/drive/u/0/folders/123456789@abc
 - 123456789@abc chính là id của folder Drive
 
 ### 4. Cách sử dụng script
-- Tìm VSCode và bấm chọn Run As Administrator
+- Tìm VSCode rồi bấm chuột phải vào icon và chọn Run As Administrator
 
-- Chọn Folder của repo
+- Mở Folder của repo trong máy
 
 ```bash
 python main.py
