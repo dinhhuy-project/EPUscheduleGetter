@@ -15,11 +15,12 @@ Cấu trúc thư mục:
 
 ├── cookies.json
 
+├── .env
+
 ├── response_preview.html
 
 └── <ảnh thời khóa biểu>.png
 
-└── .env
 
 # Các bước sử dụng
 Script này thực hiện các bước:
