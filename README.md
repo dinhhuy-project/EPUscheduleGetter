@@ -5,21 +5,13 @@ Cấu trúc thư mục:
 
 ```bash
 ├── main.py
-
 ├── requirements.txt
-
 ├── README.md
-
 ├── credentials.json
-
 ├── token.pickle
-
 ├── cookies.json
-
 ├── .env
-
 ├── response_preview.html
-
 └── <ảnh thời khóa biểu>.png
 ```
 
