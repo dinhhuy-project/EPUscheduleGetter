@@ -47,7 +47,12 @@ Tải file credentials.json và đặt vào file credentials.json
 
 📌 File token.pickle sẽ tự động được tạo khi bạn chạy lần đầu.
 
+Video hướng dẫn lấy credentials.json: [How to get credentials.json](https://drive.google.com/file/d/1ZrYE6AIAuXJFJW9Q5ZshuGMXqY6jEOZe/view?usp=drive_link)
+
 Lấy id của folder Drive đặt vào file .env
+
+e.g: https://drive.google.com/drive/u/0/folders/123456789@abc
+- 123456789@abc chính là id của folder Drive
 
 ### 4. Cách sử dụng script
 
