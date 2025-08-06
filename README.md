@@ -70,8 +70,8 @@ e.g: https://drive.google.com/drive/u/0/folders/123456789@abc
 
 ### 4. Cách sử dụng script
 - Tìm VSCode rồi bấm chuột phải vào icon và chọn Run As Administrator
-
 - Mở Folder của repo trong máy
+- Chạy lệnh sau ở dưới Terminal
 
 ```bash
 python main.py
