@@ -1,6 +1,18 @@
 # EPUscheduleGetter
 This script helps EPU students automatically retrieve their weekly class schedules.
 
+Cấu trúc thư mục:
+
+├── main.py
+├── requirements.txt
+├── README.md
+├── credentials.json
+├── token.pickle
+├── cookies.json
+├── response_preview.html
+└── <ảnh thời khóa biểu>.png
+
+
 # Các bước sử dụng
 Script này thực hiện các bước:
 
@@ -43,7 +55,7 @@ Tạo project và bật API: "Google Drive API"
 
 Tạo OAuth 2.0 credentials (Desktop App)
 
-Tải file credentials.json và đặt vào file credentials.json
+Tải file credentials.json và đặt vào folder của repo
 
 📌 File token.pickle sẽ tự động được tạo khi bạn chạy lần đầu.
 
