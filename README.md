@@ -19,6 +19,8 @@ Cấu trúc thư mục:
 
 └── <ảnh thời khóa biểu>.png
 
+└── .env
+
 # Các bước sử dụng
 Script này thực hiện các bước:
 
