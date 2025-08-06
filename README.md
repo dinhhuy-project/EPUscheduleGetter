@@ -4,15 +4,15 @@ This script helps EPU students automatically retrieve their weekly class schedul
 Cấu trúc thư mục:
 
 ```bash
-├── main.py
-├── requirements.txt
+├── main.py          
+├── requirements.txt    
 ├── README.md
 ├── credentials.json
-├── token.pickle
-├── cookies.json
+├── token.pickle               #tự động build ra
+├── cookies.json               #tự động lấy từ browser
 ├── .env
-├── response_preview.html
-└── <ảnh thời khóa biểu>.png
+├── response_preview.html      #tự động build ra
+└── <ảnh thời khóa biểu>.png   #tự động build ra 
 ```
 
 # Các bước sử dụng
